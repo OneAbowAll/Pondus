@@ -34,10 +34,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1002, 618);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Form1";
-            this.Text = "Pondus";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Text = "Form1";
             this.ResumeLayout(false);
 
         }
