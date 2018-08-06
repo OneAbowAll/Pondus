@@ -16,5 +16,10 @@ namespace Pondus
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Funzioni.PrendiTuttiIPercorsiDeiFileDaCartella(@"C:\Users\TQCnoARosto\Desktop\C#\ImageControl");
+        }
     }
 }
