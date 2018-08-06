@@ -8,3 +8,5 @@ C:\Users\TQCnoARosto\Desktop\C#\Pondus\Pondus\Pondus\obj\Debug\Pondus.csproj.Gen
 C:\Users\TQCnoARosto\Desktop\C#\Pondus\Pondus\Pondus\obj\Debug\Pondus.csproj.CoreCompileInputs.cache
 C:\Users\TQCnoARosto\Desktop\C#\Pondus\Pondus\Pondus\obj\Debug\Pondus.exe
 C:\Users\TQCnoARosto\Desktop\C#\Pondus\Pondus\Pondus\obj\Debug\Pondus.pdb
+C:\Users\TQCnoARosto\Desktop\C#\Pondus\Pondus\Pondus\bin\Debug\MaterialSkin.dll
+C:\Users\TQCnoARosto\Desktop\C#\Pondus\Pondus\Pondus\obj\Debug\Pondus.csproj.CopyComplete
